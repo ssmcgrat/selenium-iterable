@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8916" started-at="2017-02-12T18:03:24Z" finished-at="2017-02-12T18:03:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8916" started-at="2017-02-12T18:03:24Z" finished-at="2017-02-12T18:03:33Z">
+      <class name="drivers.PerformGoogleSearch">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:drivers.PerformGoogleSearch@6767c1fc]" name="beforeTest" is-config="true" duration-ms="3062" started-at="2017-02-12T13:03:24Z" finished-at="2017-02-12T13:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:drivers.PerformGoogleSearch@6767c1fc]" name="launchURL" duration-ms="1489" started-at="2017-02-12T13:03:27Z" finished-at="2017-02-12T13:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="performGoogleSearch()[pri:0, instance:drivers.PerformGoogleSearch@6767c1fc]" name="performGoogleSearch" duration-ms="371" started-at="2017-02-12T13:03:28Z" finished-at="2017-02-12T13:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performGoogleSearch -->
+        <test-method status="PASS" signature="selectFirstSearchResult()[pri:0, instance:drivers.PerformGoogleSearch@6767c1fc]" name="selectFirstSearchResult" duration-ms="2810" started-at="2017-02-12T13:03:29Z" finished-at="2017-02-12T13:03:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFirstSearchResult -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:drivers.PerformGoogleSearch@6767c1fc]" name="afterTest" is-config="true" duration-ms="1160" started-at="2017-02-12T13:03:32Z" finished-at="2017-02-12T13:03:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- drivers.PerformGoogleSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
